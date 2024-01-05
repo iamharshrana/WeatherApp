@@ -28,7 +28,7 @@ To run the Weather App locally, follow these steps:
     Obtain an API key: https://openweathermap.org/
 
 
-3.**Start the development server:**
+3.  **Start the development server:**
  
    ```bash
    yarn start
