@@ -29,5 +29,6 @@ To run the Weather App locally, follow these steps:
 
 
 3.**Start the development server:**
-```bash
+ 
+   ```bash
    yarn start
