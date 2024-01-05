@@ -1,7 +1,4 @@
 # Weather App using ReactJS
-
-![Weather App Screenshot](./screenshots/weather-app-screenshot.png)
-
 ## Overview
 
 This is a simple weather application built with ReactJS that allows users to check the current weather conditions for a specific location. The app utilizes a weather API to fetch real-time weather data.
